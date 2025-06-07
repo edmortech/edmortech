@@ -135,7 +135,7 @@ Feel free to reach out to me through any of the following channels:
 - **Email**: [edmortech@gmail.com](mailto:edmortech@gmail.com)
 - **WhatsApp**: [+254 112 870 066](tel:+254112870066)
 - **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: (https://github.com/edmortech)
+- **GitHub**: https://github.com/edmortech
 
 ---
 
