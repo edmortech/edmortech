@@ -1,11 +1,8 @@
-To make your README stand out visually, we can incorporate Markdown syntax with badges, icons, and links that will give it a more professional and polished look. Here's a version of the README that includes styling elements like shields (for tech stacks) and custom sections with icons to improve the overall appearance.
+# 👋 Hi, I'm [Your Name] – Full-Stack Developer & Data Analyst
 
-### Styled GitHub Profile README:
+Welcome to my GitHub profile! I specialize in creating **innovative, user-friendly applications** and **solving complex problems**. My skill set spans across **web development** and **data analysis**. I’m always learning new things and improving my craft.
 
-```markdown
-# Hello, I'm [Your Name] 👋
-
-Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Analyst** passionate about creating user-friendly applications and exploring new technologies.
+---
 
 ## 📚 Table of Contents
 - [About Me](#about-me)
@@ -18,158 +15,128 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** and **Data Analyst*
 
 ## About Me
 
-I'm a **Full-Stack Developer** with hands-on experience in web development and data analysis. My goal is to turn complex ideas into functional and user-friendly applications. I have a strong foundation in both **front-end** and **back-end** technologies and I'm continuously expanding my skill set to include **data science tools** and **frameworks**.
-
-In my free time, I love exploring new technologies, solving coding challenges, and contributing to open-source projects.
+I'm a **Full-Stack Developer** with a passion for building impactful applications. My journey involves both **frontend** and **backend** technologies, along with an expanding interest in **data science**. When I’m not coding, I enjoy **exploring new tools**, solving **coding challenges**, and **contributing to open-source projects**.
 
 ---
 
-## Completed Projects 🚀
+## 🚀 Completed Projects
 
 ### 1. Personal Portfolio Website
-**Description**: A fully responsive, single-page application built to showcase my skills, services, and projects.
+A fully responsive, single-page application designed to showcase my skills, services, and projects.
 
-**Technologies Used**:
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-black?logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=563D7C)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwindcss&logoColor=38B2AC)
+![Portfolio Demo](https://img.shields.io/badge/Live%20Demo-blue?style=flat&logo=appveyor)
 
-**Key Features**:
-- Responsive design that adapts to any screen size.
-- A personalized "About Me" section and "Portfolio" section with live demos and source links.
-- Contact details with email, WhatsApp, and social media links.
+**Technologies Used**:  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+
+**Key Features**:  
+- Fully responsive design  
+- Portfolio section with live demos and source code links  
+- Contact options via email, WhatsApp, and social media
 
 **Status**: Completed ✅  
-[Live Demo](#) | ![Portfolio Screenshot](#)
+[**Live Demo**](#)  
+![Portfolio Screenshot](#)
 
 ---
 
 ### 2. Project Name 2
-**Description**: A brief description of this project.
 
-**Technologies Used**:
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&logoColor=6DA55F)
-![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=FFFFFF)
+Brief description of the project, what it solves, or the use case.
 
-**Key Features**:
-- Feature 1
-- Feature 2
+**Technologies Used**:  
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-FFFFFF?style=flat&logo=express&logoColor=000000)
+
+**Key Features**:  
+- Feature 1  
+- Feature 2  
 
 **Status**: Completed ✅  
-[Live Demo/Repo Link](#) | ![Project Screenshot](#)
+[**Live Demo/Repo Link**](#)  
+![Project Screenshot](#)
 
 ---
 
 ### 3. Project Name 3
-**Description**: Short description of the project.
 
-**Technologies Used**:
-![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/-Django-black?logo=django&logoColor=092D00)
+A short description of this project and its functionalities.
 
-**Key Features**:
-- Feature 1
-- Feature 2
+**Technologies Used**:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092D00?style=flat&logo=django&logoColor=white)
+
+**Key Features**:  
+- Feature 1  
+- Feature 2  
 
 **Status**: Completed ✅  
-[Live Demo/Repo Link](#) | ![Project Screenshot](#)
+[**Live Demo/Repo Link**](#)  
+![Project Screenshot](#)
 
 ---
 
-## Personal Portfolio Website 📱
+## 🌐 Personal Portfolio Website
+
 [View Live Demo](#)
 
-This is the source code for my **Personal Portfolio Website**. It was built from scratch to serve as my professional calling card, showcasing my skills, services, and projects. The website is designed to provide a simple, elegant, and mobile-first platform that communicates my technical capabilities and the services I offer as a **Full-Stack Developer** and **Entry-Level Data Analyst**.
+This is my personal portfolio website, built to showcase my skills, projects, and services. It’s **responsive**, **mobile-first**, and designed to be clean and easy to navigate.
 
 ### Key Features:
-- **Responsive Design**: Mobile-first design ensuring smooth experience across devices.
-- **Hero Section**: Features my name, title, and call-to-action buttons.
-- **Skills Showcase**: A comprehensive list of technical skills with icons.
-- **Portfolio Gallery**: Displays my projects with links to live demos and source code.
-- **Contact Information**: Multiple ways for visitors to connect with me.
+- **Responsive Design**: Ensures an optimal viewing experience across all devices.
+- **Hero Section**: Contains my name, role, and call-to-action buttons.
+- **Showcase**: Displays my skills, projects, and links to live demos.
+- **Contact**: Easy ways to get in touch through email, WhatsApp, or social media.
 
 ### Technologies Used:
-**Frontend**:
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-black?logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&logoColor=DD1B16)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=vue.js&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=563D7C)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwindcss&logoColor=38B2AC)
-
-**Backend**:
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&logoColor=6DA55F)
-![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/-Django-black?logo=django&logoColor=092D00)
-![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=000000)
-![PHP](https://img.shields.io/badge/-PHP-black?logo=php&logoColor=777BB4)
-
-**Data Analysis**:
-![SQL](https://img.shields.io/badge/-SQL-black?logo=sqlite&logoColor=003B57)
-![Excel](https://img.shields.io/badge/-Excel-black?logo=microsoft-excel&logoColor=217346)
-![Tableau](https://img.shields.io/badge/-Tableau-black?logo=tableau&logoColor=E97627)
-
-**Tools & Other**:
-![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/-AWS-black?logo=amazonaws&logoColor=232F3E)
+- **Frontend**: HTML5, CSS3, JavaScript, React, Tailwind CSS
+- **Backend**: Node.js, Python (Django, Flask), SQL
+- **Data Analysis**: SQL, Excel/Google Sheets, Tableau
+- **Tools**: Git, GitHub, Docker, AWS, REST APIs
 
 ---
 
-## Skills & Technologies 🛠️
+## 🛠️ Skills & Technologies
 
-### Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/-SQL-black?logo=sqlite&logoColor=003B57)
+### **Languages**:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### Frontend:
-![React](https://img.shields.io/badge/-React-black?logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&logoColor=DD1B16)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=vue.js&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&logoColor=563D7C)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?logo=tailwindcss&logoColor=38B2AC)
+### **Frontend**:
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/Angular-DD1B16?style=flat&logo=angular&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
-### Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&logoColor=6DA55F)
-![Django](https://img.shields.io/badge/-Django-black?logo=django&logoColor=092D00)
-![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=000000)
-![PHP](https://img.shields.io/badge/-PHP-black?logo=php&logoColor=777BB4)
+### **Backend**:
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092D00?style=flat&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### Data Analysis:
-![SQL](https://img.shields.io/badge/-SQL-black?logo=sqlite&logoColor=003B57)
-![Excel](https://img.shields.io/badge/-Excel-black?logo=microsoft-excel&logoColor=217346)
-![Tableau](https://img.shields.io/badge/-Tableau-black?
-```
-
-
-logo=tableau\&logoColor=E97627)
-
-### Other:
-
-![Git](https://img.shields.io/badge/-Git-black?logo=git\&logoColor=F05032)
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker\&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/-AWS-black?logo=amazonaws\&logoColor=232F3E)
+### **Data Analysis**:
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## Contact 📞
+## 📞 Contact
 
-Feel free to reach out to me through the following channels:
+Feel free to reach out to me through any of the following channels:
 
-* **Email**: [edmortech@gmail.com](mailto:edmortech@gmail.com)
-* **WhatsApp**: [+254 112 870 066](tel:+254112870066)
-* **LinkedIn**: [Your LinkedIn Profile](#)
-* **GitHub**: [Your GitHub Profile](#)
+- **Email**: [edmortech@gmail.com](mailto:edmortech@gmail.com)
+- **WhatsApp**: [+254 112 870 066](tel:+254112870066)
+- **LinkedIn**: [Your LinkedIn Profile](#)
+- **GitHub**: [Your GitHub Profile](#)
 
 ---
 
-Let me know if you need any more customizations! You can also replace placeholder links with actual URLs.
+## 🌟 Let's Build Something Amazing Together!
