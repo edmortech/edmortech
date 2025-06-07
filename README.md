@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] – Full-Stack Developer & Data Analyst
+# 👋 Hi, I'm Moris Murangiri – Full-Stack Developer & Data Analyst
 
 Welcome to my GitHub profile! I specialize in creating **innovative, user-friendly applications** and **solving complex problems**. My skill set spans across **web development** and **data analysis**. I’m always learning new things and improving my craft.
 
